@@ -148,3 +148,36 @@ footer p {
 footer a {
     color: yellow;
 }
+
+h2 {
+    margin: 3rem 0;
+    padding: 0.1rem 2%;
+    font-weight: normal;
+    font-size: 2rem;
+    text-align:center;
+    text-transform: uppercase;
+    background-color: brown;
+    color: yellow;
+}
+
+dt {
+    color: red;
+    font-size: 1.4rem;
+    text-shadow: .20rem .20rem .2rem rgba(0, 0, 0, .8);
+}
+
+dd {
+    color: yellow;
+    font-size: 1.1rem
+}
+
+summary {
+    color: orange;
+    font-size: 1.2rem
+}
+
+    
+    
+    
+
+   
