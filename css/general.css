@@ -17,7 +17,7 @@ html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
-    font-size: 100%;
+    font-size: 90%;
     font-family: Myriad pro, Garamond , sans-serif;
     background-image:url(../images/spaceship-background.jpg);
     background-size: 40rem;
@@ -29,7 +29,7 @@ img {
 }
 
 body {
-    margin: 0 1;
+    margin: 0;
     padding: 0;
 }
 
@@ -60,7 +60,6 @@ p {
     background-image: url(../images/falcon.jpg);
     background-color: black;
     background-repeat: no-repeat;
-    margin: 0 5% rem;
     overflow: hidden;
     background-size: 40rem;
     background-position: center center;
@@ -100,7 +99,7 @@ article {
 article p:first-child {
     font-size: 1.75rem;
     line-height: 2.5rem;
-    margin: .75rem 0 1.5rem;
+    margin: 5rem 1.5% 2rem;
     color: red;
     text-shadow: .20rem .20rem .2rem rgba(0, 0, 0, .8);
 }
