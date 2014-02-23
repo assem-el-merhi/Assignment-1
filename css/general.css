@@ -17,10 +17,8 @@ html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
-    
     font-size: 100%;
     font-family: Myriad pro, Garamond , sans-serif;
-     
     background-image:url(../images/spaceship-background.jpg);
     background-size: 40rem;
 }
@@ -82,10 +80,9 @@ h1 {
 }
 
 .logo {
-    height: 4.8rem;
+    height: 4rem;
     width: auto;
     padding: .5rem 3%;
-    opacity: 8
 }
 
 
@@ -106,7 +103,6 @@ article p:first-child {
     margin: .75rem 0 1.5rem;
     color: red;
     text-shadow: .20rem .20rem .2rem rgba(0, 0, 0, .8);
-}
 }
 
 figure {
