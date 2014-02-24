@@ -110,9 +110,10 @@ figure {
 }
 
 figcaption {
-    font-size: .80rem;
+    font-size: .90rem;
     padding: .5rem 5%;
     background-color: red;
+    color: 
 }
 
 .headmast {
@@ -123,12 +124,6 @@ figcaption {
 .darthhead {
     margin: 0 auto 1.5rem;
     width: 70%;
-}
-
-figcaption2 {
-    font-size: .80rem;
-    padding: .5rem 5%;
-    background-color: red;
 }
 
 footer {
@@ -156,7 +151,8 @@ h2 {
     text-align:center;
     text-transform: uppercase;
     background-color: brown;
-    color: yellow;
+    color: gold;
+    text-shadow: .20rem .20rem .2rem rgba(0, 0, 0, .5);
 }
 
 dt {
@@ -166,11 +162,20 @@ dt {
 }
 
 dd {
-    color: yellow;
+    color: gold;
     font-size: 1.1rem
 }
 
 summary {
     color: orange;
-    font-size: 1.2rem
+    font-size: 1.3rem
+}
+
+.dropcap:first-letter {
+    font-size: 5rem;
+    font-weight: 600;
+    float: left;
+    margin: 1.7rem .5rem 1rem 0;
+    color: red;
+    text-shadow: .20rem .20rem .2rem rgba(0, 0, 0, .5);
 }
